@@ -1,0 +1,2 @@
+# .github
+HashiCorp Customer Success
