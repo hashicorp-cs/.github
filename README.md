@@ -3,6 +3,8 @@ HashiCorp Customer Success
 
 This organization houses repositories relevant to HashiCorp customer success.  This includes everyone, but is expected to be mostly written to by the SEA organization with demo and example repositories meant for public consumption as part of our work to ease adoption for all our customers.
 
+NOTE: This organization is under development - please be patient as we build out the content and automation 
+
 ## How do I make a repository public?
 
 In order to make a repository public, you'll need to follow some HashiCorp [standards](https://docs.google.com/document/d/1rUmuAGNDULSbVe2MJOXm9guCHGdYQ2wlpt3XL8-EPz0/edit) around licensing, `README` and code quality.
